@@ -17,3 +17,8 @@ export interface FooterLinkSectionProps {
   title: string;
   links: FooterLinks[];
 }
+
+export interface SearchManufacturerProps {
+  manufacturer: string;
+  setManufacturer: (manufacturer: string) => void;
+}

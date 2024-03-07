@@ -5,5 +5,19 @@ import FooterLinkSection from './FooterLinkSection';
 import NavBar from './NavBar';
 import CustomButton from './CustomButton';
 import Logo from './Logo';
+import CustomFilter from './CustomButton';
+import SearchBar from './SearchBar';
+import SearchManufacturer from './SearchManufacturer';
 
-export { Hero, Footer, NavBar, CustomButton, Logo, FooterLinks, FooterLinkSection };
+export {
+  Hero,
+  Footer,
+  NavBar,
+  CustomButton,
+  Logo,
+  FooterLinks,
+  FooterLinkSection,
+  CustomFilter,
+  SearchBar,
+  SearchManufacturer,
+};
